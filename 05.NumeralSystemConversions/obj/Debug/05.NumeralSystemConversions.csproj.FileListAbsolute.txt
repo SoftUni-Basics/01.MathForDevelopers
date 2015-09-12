@@ -1,0 +1,4 @@
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\05.NumeralSystemConversions\bin\Debug\05.NumeralSystemConversions.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\05.NumeralSystemConversions\bin\Debug\05.NumeralSystemConversions.pdb
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\05.NumeralSystemConversions\obj\Debug\05.NumeralSystemConversions.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\05.NumeralSystemConversions\obj\Debug\05.NumeralSystemConversions.pdb

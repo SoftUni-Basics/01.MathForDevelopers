@@ -1,0 +1,5 @@
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\01.SomePrimes\bin\Debug\01.SomePrimes.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\01.SomePrimes\bin\Debug\01.SomePrimes.pdb
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\01.SomePrimes\obj\Debug\01.SomePrimes.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\01.SomePrimes\obj\Debug\01.SomePrimes.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\01.SomePrimes\obj\Debug\01.SomePrimes.pdb

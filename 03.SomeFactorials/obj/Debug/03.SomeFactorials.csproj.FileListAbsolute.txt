@@ -1,0 +1,5 @@
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\03.SomeFactorials\bin\Debug\03.SomeFactorials.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\03.SomeFactorials\bin\Debug\03.SomeFactorials.pdb
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\03.SomeFactorials\obj\Debug\03.SomeFactorials.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\03.SomeFactorials\obj\Debug\03.SomeFactorials.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\03.SomeFactorials\obj\Debug\03.SomeFactorials.pdb

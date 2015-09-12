@@ -1,0 +1,5 @@
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\04.CalculateHypotenuse\bin\Debug\04.CalculateHypotenuse.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\04.CalculateHypotenuse\bin\Debug\04.CalculateHypotenuse.pdb
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\04.CalculateHypotenuse\obj\Debug\04.CalculateHypotenuse.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\04.CalculateHypotenuse\obj\Debug\04.CalculateHypotenuse.exe
+C:\Visual Studio 2013 Projects\01. BasicLevel\01.MathForDevelopers\04.CalculateHypotenuse\obj\Debug\04.CalculateHypotenuse.pdb
